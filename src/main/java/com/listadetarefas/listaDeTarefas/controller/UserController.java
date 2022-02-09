@@ -1,0 +1,8 @@
+package com.listadetarefas.listaDeTarefas.controller;
+
+//NOSSOS CONTROLLERS SÃO AS CLASSES QUE POSSUEM AS REQUISIÇÕES E INTERFÁCES COM NOSSO CLIENTE. RENDERIZA AS 
+//VIZUALIZAÇÕES REQUERIDAS PELO NOSSO USUÁRIO.
+
+public class UserController {
+
+}
